@@ -165,3 +165,4 @@ class ShopCard extends StatelessWidget {
 
 15. Untuk bonus pada class tambahkan field color ShopItem dan pada List<ShopItem> setiap items nya tambahkan argumen untuk warna nya
 16. Pada class ShopCard, di widget bagian Material ubah color menjadi ```color: item.color,```
+https://github.com/RyanAfzal/inventory-manager-mobile/assets/137851158/d85dc4fd-fed2-40e4-9ba9-def39af53471
